@@ -58,8 +58,10 @@ if __name__ == '__main__':
 
     aggregated_results.show()
 
+    print("this line of code is for feature1 only ")
     logger.warn("this is the end of main")
 
-    #print("end of main")
+
+    print("end of main")
 
 
