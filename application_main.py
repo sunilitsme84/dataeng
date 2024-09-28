@@ -61,12 +61,7 @@ if __name__ == '__main__':
     print("this line of code is for feature1 only ")
     logger.warn("this is the end of main")
 
-<<<<<<< HEAD
-### feature 2 branch new codecl
-    #print("end of main")
-=======
-
     print("end of main")
->>>>>>> 5f359f25c229143c3f44cd123d41e1a89a34e508
+
 
 
